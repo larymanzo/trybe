@@ -1,7 +1,37 @@
-h1{
-width: 65px;
+body{
+    font-size: 16px;
 }
 
-ul{
+h1{
+    width: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+li{
     background-color: cornflowerblue;
+    line-height: 50px;
+}
+
+p{
+    font-weight: 600;
+    font-style: italic;
+}
+
+.hero{
+    background-color: orchid;
+    text-align: center;
+}   
+
+#list-1{
+    color: yellow;
+}
+
+#list-2{
+    color: red;
+}
+
+#list-3{
+    color: brown;
 }
