@@ -271,7 +271,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 36-1: _Introdução à programação orientada a objetos_
 - [ ] 36-2: _Programação orientada a objetos na prática_
 - [ ] 36-3: _Padrões de projeto_
-- [ ] 36-4: _[Projeto - Relatórios de Estoque](https://github.com/thosijulio/trybe-projects/blob/main/4.COMPUTER-SCIENCE/36.4-)_
+- [ ] 36-4: _[Projeto - Relatórios de Estoque]
 
 #### Bloco 37: Algoritmos e Estrutura de Dados ⏳
 
@@ -279,13 +279,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 37-2: _Estrutura de Dados I - Complexidade de Algoritmos_
 - [ ] 37-3: _Recursividade e Estratégias para solução de problemas_
 - [ ] 37-4: _Algoritmos de ordenação e busca_
-- [ ] 37-5: _[Projeto - Algoritmos](https://github.com/thosijulio/trybe-projects/blob/main/4.COMPUTER-SCIENCE/37.5-)_
+- [ ] 37-5: _[Projeto - Algoritmos]
 
 #### Bloco 38: Estrutura de Dados: Hash e Set ⏳
 
 - [ ] 38-1: _Estrutura de dados II - Hash maps & Dict_
 - [ ] 38-2: _Estrutura de dados II - Set_
-- [ ] 38-3: _[Projeto - Restaurant Orders](https://github.com/thosijulio/trybe-projects/blob/main/4.COMPUTER-SCIENCE/38.3-)_
+- [ ] 38-3: _[Projeto - Restaurant Orders]
 
 #### Bloco 39: Estrutura de Dados: Pilhas, Filas e Listas ⏳
 
@@ -293,4 +293,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 39-2: _Estrutura de Dados III - Deque_
 - [ ] 39-3: _Estrutura de Dados III - Nó & Listas ligadas_
 - [ ] 39-4: _Estrutura de Dados III - Listas duplamente ligadas_
-- [ ] 39-5: _[Projeto - TING: Trybe Is Not Google](https://github.com/thosijulio/trybe-projects/blob/main/4.COMPUTER-SCIENCE/39.5-)_
+- [ ] 39-5: _[Projeto - TING: Trybe Is Not Google]
