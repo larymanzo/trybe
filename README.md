@@ -35,18 +35,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 #### Bloco 4: Introdução à JavaScript e Lógica de Programação ⏳
 
 - [x] 4-1: _JavaScript - Primeiros passos_
-- [ ] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _[Projeto - Playground Functions]
+- [x] 4-2: _JavaScript - Array e loop For_
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [x] 4-4: _JavaScript - Objetos e funções_
+- [x] 4-5: _[Projeto - Playground Functions]
 
 #### Bloco 5: JavaScript: DOM, Eventos e Web Storage ⏳
 
-- [ ] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Arte com Pixels]
+- [x] 5-1: _JavaScript - DOM e seletores_
+- [x] 5-2: _JavaScript - Trabalhando com elementos_
+- [x] 5-3: _JavaScript - Eventos_
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _[Projeto - Arte com Pixels]
 - [ ] 5-6: _[Projeto - Lista de taredas]
 - [ ] 5-7: _[(Bônus) Projeto - Meme Generator]
 - [ ] 5-8: _[(Bônus) Projeto - Adivinhe a Cor]
@@ -54,7 +54,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 #### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo ⏳
 
-- [ ] 6-1: _HTML & CSS - Forms_
+- [x] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _HTML & CSS - Bibliotecas JS e Frameworks CSS_
 - [ ] 6-3: _HTML & CSS - Flexbox - Parte 1_
 - [ ] 6-4: _HTML & CSS - Flexbox - Parte 2_
