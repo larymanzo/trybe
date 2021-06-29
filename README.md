@@ -32,7 +32,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _[Projeto - Lessons Learned]
 
-#### Bloco 4: Introdução à JavaScript e Lógica de Programação ⏳
+#### Bloco 4: Introdução à JavaScript e Lógica de Programação ✔️
 
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
@@ -40,7 +40,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _[Projeto - Playground Functions]
 
-#### Bloco 5: JavaScript: DOM, Eventos e Web Storage ⏳
+#### Bloco 5: JavaScript: DOM, Eventos e Web Storage ✔️
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
@@ -49,7 +49,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5-5: _[Projeto - Arte com Pixels]
 - [x] 5-6: _[Projeto - Lista de taredas]
 
-#### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo ⏳
+#### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo ✔️
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _HTML & CSS - Bibliotecas JS e Frameworks CSS_
@@ -58,14 +58,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 6.5: _HTML & CSS - CSS Responsivo - Mobile First_
 - [x] 6.6: _[Projeto - Página Trybewarts]
 
-#### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários ⏳
+#### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários ✔️
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _JavaScript ES6 - Testes unitários em JavaScript_
 - [x] 7-4: _[Projeto - JavaScript Testes Unitários]
 
-#### Bloco 8: High Order Functions do JavaScript ES6 ⏳
+#### Bloco 8: High Order Functions do JavaScript ES6 ✔️
 
 - [x] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
 - [x] 8-2: _JavaScript ES6 - High Order Functions - forEach, fund, some, every, sort_
