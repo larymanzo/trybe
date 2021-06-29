@@ -47,34 +47,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _[Projeto - Arte com Pixels]
-- [ ] 5-6: _[Projeto - Lista de taredas]
-- [ ] 5-7: _[(Bônus) Projeto - Meme Generator]
-- [ ] 5-8: _[(Bônus) Projeto - Adivinhe a Cor]
-- [ ] 5-9: _[(Bônus) Projeto - Carta Misteriosa]
+- [x] 5-6: _[Projeto - Lista de taredas]
 
 #### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo ⏳
 
 - [x] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _HTML & CSS - Bibliotecas JS e Frameworks CSS_
-- [ ] 6-3: _HTML & CSS - Flexbox - Parte 1_
-- [ ] 6-4: _HTML & CSS - Flexbox - Parte 2_
-- [ ] 6.5: _HTML & CSS - CSS Responsivo - Mobile First_
-- [ ] 6.6: _[Projeto - Página inicial do Facebook]
+- [x] 6-2: _HTML & CSS - Bibliotecas JS e Frameworks CSS_
+- [x] 6-3: _HTML & CSS - Flexbox - Parte 1_
+- [x] 6-4: _HTML & CSS - Flexbox - Parte 2_
+- [x] 6.5: _HTML & CSS - CSS Responsivo - Mobile First_
+- [x] 6.6: _[Projeto - Página Trybewarts]
 
 #### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários ⏳
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _JavaScript ES6 - Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7-2: _JavaScript ES6 - Objects_
+- [x] 7-3: _JavaScript ES6 - Testes unitários em JavaScript_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários]
 
 #### Bloco 8: High Order Functions do JavaScript ES6 ⏳
 
-- [ ] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
-- [ ] 8-2: _JavaScript ES6 - High Order Functions - forEach, fund, some, every, sort_
-- [ ] 8-3: _JavaScript ES6 - High Order Functions - map e filter_
-- [ ] 8-4: _JavaScript ES6 - High Order Functions - reduce_
-- [ ] 8.5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [x] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
+- [x] 8-2: _JavaScript ES6 - High Order Functions - forEach, fund, some, every, sort_
+- [x] 8-3: _JavaScript ES6 - High Order Functions - map e filter_
+- [x] 8-4: _JavaScript ES6 - High Order Functions - reduce_
+- [x] 8.5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [ ] 8.6: _[Projeto - Zoo Functions]
 
 #### Bloco 9: JavaScript Assíncrono e Promises ⏳
