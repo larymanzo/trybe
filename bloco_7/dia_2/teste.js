@@ -21,13 +21,15 @@ const student1 = {
     const arrayOfSkills = Object.keys(student);
     // para cada index dentro da variável arrayOfSkills:
     for(index in arrayOfSkills){
-      // vai exibir na tela a chave do objeto informado e o valor de cada chave do objeto informado
+      // vai exibir na tela a chave do objeto informado e o valor de cada chave do objeto 
       console.log(`${arrayOfSkills[index]}, Nível: ${student[arrayOfSkills[index]]}`);
     }
   };
   
-  console.log('Estudante 1');
+  console.log(`Estudante 1
+  `);
   listSkills(student1);
   
-  console.log('Estudante 2');
+  console.log(`
+  Estudante 2`);
   listSkills(student2);
