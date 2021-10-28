@@ -72,20 +72,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 8-3: _JavaScript ES6 - High Order Functions - map e filter_
 - [x] 8-4: _JavaScript ES6 - High Order Functions - reduce_
 - [x] 8.5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [ ] 8.6: _[Projeto - Zoo Functions]
+- [x] 8.6: _[Projeto - Zoo Functions]
 
-#### Bloco 9: JavaScript Assíncrono e Promises ⏳
+#### Bloco 9: JavaScript Assíncrono e Promises ✔️
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9.3: _[Projeto - Carrinho de Compras]
+- [x] 9-1: _JavaScript Assíncrono e Callbacks_
+- [x] 9-2: _JavaScript Promises_
+- [x] 9.3: _[Projeto - Carrinho de Compras]
 
-#### Bloco 10: Testes automatizados com Jest ⏳
+#### Bloco 10: Testes automatizados com Jest ✔️
 
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Teste Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]
+- [x] 10-1: _Primeiros passos no Jest_
+- [x] 10-2: _Jest - Teste Assíncronos_
+- [x] 10-3: _Jest - Simulando comportamentos_
+- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]
 
 ---
 
@@ -98,47 +98,47 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 11-2: _Componentes React_
 - [x] 11-3: _[Projeto - Movie Cards Library]
 
-#### Bloco 12: Componentes com Estado, Eventos e Formulários com React ⏳
+#### Bloco 12: Componentes com Estado, Eventos e Formulários com React ✔️
 
 - [x] 12-1: _Componentes com Estado e Eventos_
 - [x] 12-2: _Formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]
+- [x] 12-3: _[Projeto - Movie Cards Library Stateful]
 
-#### Bloco 13: Ciclo de Vida de Componentes e React Router ⏳
+#### Bloco 13: Ciclo de Vida de Componentes e React Router ✔️
 
-- [ ] 13-1: _Ciclo de Vida de Componentes_
-- [ ] 13-2: _React Router_
-- [ ] 13-3: _[Projeto - Movie Cards Library CRUD]
+- [x] 13-1: _Ciclo de Vida de Componentes_
+- [x] 13-2: _React Router_
+- [x] 13-3: _[Projeto - Trybetunes]
 
-#### Bloco 14: Metodologias Ágeis ⏳
+#### Bloco 14: Metodologias Ágeis ✔️
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Front-end Online Store]
+- [x] 14-1: _Metodologias Ágeis_
+- [x] 14-2: _[Projeto - Front-end Online Store]
 
-#### Bloco 15: Testes automatizados com React Testing Library ⏳
+#### Bloco 15: Testes automatizados com React Testing Library ✔️
 
-- [ ] 15-1: _RTL - Primeiros Passos_
-- [ ] 15-2: _RTL - Mocks e Inputs_
-- [ ] 15-3: _RTL - Testando React Router_
-- [ ] 15-4: _[Projeto - Testes em React]
+- [x] 15-1: _RTL - Primeiros Passos_
+- [x] 15-2: _RTL - Mocks e Inputs_
+- [x] 15-3: _RTL - Testando React Router_
+- [x] 15-4: _[Projeto - Testes em React]
 
-#### Bloco 16: Gerenciamento de Estado com Redux ⏳
+#### Bloco 16: Gerenciamento de Estado com Redux ✔️
 
-- [ ] 16-1: _Introdução ao Redux - O Estado Global da Aplicação_
-- [ ] 16-2: _Usando Redux no React_
-- [ ] 16-3: _Usando o Redux no React - Prática_
-- [ ] 16-4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 16-5: _Testes em React-Redux_
-- [ ] 16-6: _[Projeto - Trybe Waller]
+- [x] 16-1: _Introdução ao Redux - O Estado Global da Aplicação_
+- [x] 16-2: _Usando Redux no React_
+- [x] 16-3: _Usando o Redux no React - Prática_
+- [x] 16-4: _Usando o Redux no React - Actions Assíncronas_
+- [x] 16-5: _Testes em React-Redux_
+- [x] 16-6: _[Projeto - Trybe Waller]
 
-#### Bloco 17: Projeto Jogo de Trivia ⏳
+#### Bloco 17: Projeto Jogo de Trivia ✔️
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]
+- [x] 17-1: _[Projeto - Jogo de Trivia]
 
 #### Bloco 18: Context API e Reack Hooks ⏳
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
+- [x] 18-1: _Context API do React_
+- [x] 18-2: _React Hooks - useState e useContext_
 - [ ] 18-3: _React Hooks - useEffect e Hooks Customizados_
 - [ ] 18-4: _[Projeto - Star Wars Datatable com Context API e Hooks]
 
